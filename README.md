@@ -8,10 +8,8 @@
 
 * 安装VirtualBox
 * 安装Vagrant
-* 下载Box
-* 添加box到Vagrant，命令: `vagrant box add xxx.box --name xxx/mybox`
-* 安装Vagrant插件，命令: `vagrant plugin install [--local] 插件名`
-* 修改配置文件Vagrantfile
+* 下载Box （百度网盘下载: https://pan.baidu.com/s/1g0IH5p2dGUfaERFa_AQ4AQ 提取码: hzj3）
+* 修改配置文件Vagrantfile，选择使用的基础系统，如centos
 * 启动机器`vagrant up`
 
 ### 教程
